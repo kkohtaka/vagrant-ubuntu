@@ -1,0 +1,7 @@
+# Copyright (c) 2016 Kazumasa Kohtaka. All rights reserved.
+# This file is available under the MIT license.
+
+/.vagrant/
+/packer_cache
+/output/*
+/*.box
